@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="133.601525">
-<testcase classname="TIAA Submit Application feature" name="TIAA Submit Application Scenario" time="133.601525">
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="139.534904">
+<testcase classname="TIAA Submit Application feature" name="TIAA Submit Application Scenario" time="139.534904">
 <system-out><![CDATA[Given user is already on Home Page..........................................passed
 When title of Home page is TIAA Bank :: Bank on Better: High Yields, Home Loans, 24/7 Support.passed
 Then user clicks on Open an account button..................................passed
