@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="132.015115">
+<testcase classname="TIAA Submit Application feature" name="TIAA Submit Application Scenario" time="132.015115">
+<system-out><![CDATA[Given user is already on Home Page..........................................passed
+When title of Home page is TIAA Bank :: Bank on Better: High Yields, Home Loans, 24/7 Support.passed
+Then user clicks on Open an account button..................................passed
+Then user selects product...................................................passed
+Then user click on Start Application button.................................passed
+Then user is redirected to Online Application page..........................passed
+Then user clicks on Continue button.........................................passed
+Then user enters opening deposit amount.....................................passed
+Then user clicks on continue button.........................................passed
+Then user enters Applicant details..........................................passed
+Then user clicks on ApplicantDetailsContinue button.........................passed
+Then user clicks on ReviewInfoContinue button...............................passed
+Then user Esigns and accepts the disclosures................................passed
+Then user clicks on Submit Application button...............................passed
+]]></system-out>
+</testcase>
+</testsuite>
