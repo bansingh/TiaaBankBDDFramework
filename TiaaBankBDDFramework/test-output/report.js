@@ -102,98 +102,98 @@ formatter.match({
   "location": "SubmitApplicationStepDefs.user_is_already_on_Home_Page()"
 });
 formatter.result({
-  "duration": 22899776400,
+  "duration": 20437333300,
   "status": "passed"
 });
 formatter.match({
   "location": "SubmitApplicationStepDefs.title_of_Home_page_is_TIAA_Bank()"
 });
 formatter.result({
-  "duration": 17024100,
+  "duration": 11340700,
   "status": "passed"
 });
 formatter.match({
   "location": "SubmitApplicationStepDefs.user_clicks_on_Open_an_account_button()"
 });
 formatter.result({
-  "duration": 18907664300,
+  "duration": 23513206400,
   "status": "passed"
 });
 formatter.match({
   "location": "SubmitApplicationStepDefs.user_selects_product()"
 });
 formatter.result({
-  "duration": 4373640200,
+  "duration": 4435354900,
   "status": "passed"
 });
 formatter.match({
   "location": "SubmitApplicationStepDefs.user_click_on_Start_Application_button()"
 });
 formatter.result({
-  "duration": 459067400,
+  "duration": 440307000,
   "status": "passed"
 });
 formatter.match({
   "location": "SubmitApplicationStepDefs.user_is_redirected_to_Online_Application_page()"
 });
 formatter.result({
-  "duration": 5024895200,
+  "duration": 5007096300,
   "status": "passed"
 });
 formatter.match({
   "location": "SubmitApplicationStepDefs.user_clicks_on_Continue_button()"
 });
 formatter.result({
-  "duration": 4413226800,
+  "duration": 4435148600,
   "status": "passed"
 });
 formatter.match({
   "location": "SubmitApplicationStepDefs.user_enters_opening_deposit_amount(DataTable)"
 });
 formatter.result({
-  "duration": 194194200,
+  "duration": 169599300,
   "status": "passed"
 });
 formatter.match({
   "location": "SubmitApplicationStepDefs.user_clicks_on_continue_button()"
 });
 formatter.result({
-  "duration": 6668221100,
+  "duration": 6363339000,
   "status": "passed"
 });
 formatter.match({
   "location": "SubmitApplicationStepDefs.user_enters_Applicant_details()"
 });
 formatter.result({
-  "duration": 16181570500,
+  "duration": 15959588400,
   "status": "passed"
 });
 formatter.match({
   "location": "SubmitApplicationStepDefs.user_clicks_on_ApplicantDetailsContinue_button()"
 });
 formatter.result({
-  "duration": 8300197300,
+  "duration": 8274912800,
   "status": "passed"
 });
 formatter.match({
   "location": "SubmitApplicationStepDefs.user_clicks_on_ReviewInfoContinue_button()"
 });
 formatter.result({
-  "duration": 10293894300,
+  "duration": 10313067500,
   "status": "passed"
 });
 formatter.match({
   "location": "SubmitApplicationStepDefs.Esigns_and_accepts_the_disclosures()"
 });
 formatter.result({
-  "duration": 25858181000,
+  "duration": 25778817100,
   "status": "passed"
 });
 formatter.match({
   "location": "SubmitApplicationStepDefs.user_clicks_on_Submit_Application_button()"
 });
 formatter.result({
-  "duration": 8423562300,
+  "duration": 8462413700,
   "status": "passed"
 });
 });
